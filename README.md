@@ -3,15 +3,15 @@
 
 ### Criterias for selecting dataset
 * Given in course description above
-* Medical oriented, spectrocopy oriented
-* n \> P
+* Medical oriented, spectroscopy oriented
+* n > P
 * Both categorical and numerical predictors
 * Dataset to be used for classification, regression and neural nets
 * Consider pre-processing steps and normal distribution skewness challenge
 * Consider PCA pre-processing steps for spectral data
 * Not too big with respect to computational efficiency
 * Open and referencable, thrustworthy and usable
-\* 
+
 ### Candidate public datasets
 1. [https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression](https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression)
 	* Pros: Nice dataset for decision trees and for regression problems, contains both categorial and regression problems
