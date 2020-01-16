@@ -4,7 +4,7 @@
 ### Criterias for selecting dataset
 * Given in course description above
 * Medical oriented, spectroscopy oriented
-* n > P
+* n \> P
 * Both categorical and numerical predictors
 * Dataset to be used for classification, regression and neural nets
 * Consider pre-processing steps and normal distribution skewness challenge
@@ -36,3 +36,17 @@
 * Pair plot: [https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 * Correleation matrix: [https://stackoverflow.com/questions/29432629/plot-correlation-matrix-using-pandas](https://stackoverflow.com/questions/29432629/plot-correlation-matrix-using-pandas)
 * Heatmap, confusion matrix
+
+### Work & cooperation
+
+1. Analysis
+2. Combine analysis
+3. Take the best parts
+4. Integrate in report
+
+Use Authorea for start
+Dealine
+
+* Bao: Analaysis, combine analysis
+* Khurshid: Analysis
+* Martin: Writing first, analysis
