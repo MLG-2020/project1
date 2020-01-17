@@ -35,7 +35,7 @@
 ### Methods
 * Pair plot: [https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 * Correleation matrix: [https://stackoverflow.com/questions/29432629/plot-correlation-matrix-using-pandas](https://stackoverflow.com/questions/29432629/plot-correlation-matrix-using-pandas)
-* Heatmap, confusion matrix
+* Heatmap, confusion matrix: [https://www.geeksforgeeks.org/confusion-matrix-machine-learning/](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
 
 ### Work & cooperation
 
@@ -45,8 +45,12 @@
 4. Integrate in report
 
 Use Authorea for start
-Dealine
 
 * Bao: Analaysis, combine analysis
 * Khurshid: Analysis
 * Martin: Writing first, analysis
+
+### Dataset
+Binary, multiclass and numeric
+Demographics
+Disclaimer for reference
